@@ -172,3 +172,4 @@ server.pid
 *.log
 
 # End of https://www.toptal.com/developers/gitignore/api/intellij,scala,playframework,git,angular
+/docker/db/data/
